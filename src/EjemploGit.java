@@ -6,7 +6,9 @@ public class EjemploGit {
 		System.out.println("hola mundo");
 		
 		
-		String madre = "KevinYaguana";
+		String nombre = "KevinYaguana";
+		
+		System.out.println(nombre);
 	}
 
 }
